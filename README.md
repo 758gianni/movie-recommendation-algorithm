@@ -8,13 +8,8 @@ Collaborative filtering, on the other hand, works by analyzing the behavior and 
 
 ## Features
 
-<<<<<<< HEAD
-- Content-Based Filtering
-- Collaborative-Based Filtering
-=======
 -   Content-Based Filtering
 -   Collaborative-Based Filtering
->>>>>>> 48c3c0a (first commit)
 
 ## Run Locally
 
@@ -54,17 +49,10 @@ For content filtering, the code performs matrix multiplication between the user 
 
 ## Acknowledgements
 
-<<<<<<< HEAD
- - [26 Content based Recommender Systems](https://youtu.be/YMZmLx-AUvY)
- - [27 Collaborative Filtering](https://youtu.be/3oCtj29XeYY)
- - [Movie Recommender System using Python](https://youtu.be/R64Lh1Qwl_0)
- 
-=======
 -   [26 Content based Recommender Systems](https://youtu.be/YMZmLx-AUvY)
 -   [27 Collaborative Filtering](https://youtu.be/3oCtj29XeYY)
 -   [Movie Recommender System using Python](https://youtu.be/R64Lh1Qwl_0)
 
->>>>>>> 48c3c0a (first commit)
 ## License
 
 [MIT](https://choosealicense.com/licenses/mit/)
