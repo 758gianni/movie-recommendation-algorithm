@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-
-=======
->>>>>>> 48c3c0a (first commit)
 # Movie Recommendation Algorithm
 
 Content filtering and collaborative filtering are two popular approaches to recommendation systems in machine learning.
